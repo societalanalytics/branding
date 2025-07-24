@@ -1,2 +1,2 @@
 # branding
-Societal Anlytics' branding assets.
+Societal Analytics' branding assets.
